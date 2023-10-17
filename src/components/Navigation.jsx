@@ -1,5 +1,4 @@
 import { useAuth } from 'hooks/useAuth';
-import { NavLink } from 'react-router-dom';
 import { StyledLink } from './AuthNav/AuthNav.module';
 
 export const Navigation = () => {
